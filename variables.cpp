@@ -15,7 +15,7 @@ int main() {
 	*/
 
 	//integer (whole number)
-	int age = 18;
+	int age = 20;
 	int year = 2024;
 	int days = 7;
 
@@ -35,7 +35,7 @@ int main() {
 	bool forSale = false;
 
 	// string (objects that represent a sequence of text)
-	std::string name = "Giorgio";
+	std::string name = "JustJee";
 	std::string day = "Friday";
 	std::string food = "pizza";
 	std::string address = "123 Fake St.";
